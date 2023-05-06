@@ -1,5 +1,5 @@
 
-### Hi there 👋,I'm Preeti a software developer enhancing her skills everyday.
+### Hi there 👋,I'm lixel a software developer enhancing her skills everyday.
 
 - 🌱 I’m currently learning web development.
 - 👩‍💻 My tech stack is HTML,CSS and JS.
