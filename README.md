@@ -1,12 +1,12 @@
 
-### Hi there 👋,I'm lixel a software developer enhancing her skills everyday.
+### Hi there 👋,I'm  a software developer enhancing his skills everyday.
 
 - 🌱 I’m currently learning web development.
 - 👩‍💻 My tech stack is HTML,CSS and JS.
 - 📝 I'm currently learning React JS
 
 
-
+<--
 **lixelamos/lixelamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me:
+- 📫 How to reach me:-->
 - 😄 Pronouns:HIM
 - ⚡ Fun fact: EXISTENCE IS PAIN
