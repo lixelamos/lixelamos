@@ -26,9 +26,7 @@ and mobile features that address user needs with efficient solutions
   - Building server-side applications with Django and Flask a powerful Python web framework.
   - Diving into PostgreSQL and MongoDb for efficient and scalable database management.
 
- ## 🏆 Achievements
 
-- 🌟 worked on Open university LMS and official website
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/lixel_amos)
