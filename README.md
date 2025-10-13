@@ -1,39 +1,49 @@
-Hi, I'm Amos Kipkorir! 👋
+# Hi, I'm Amos Kipkorir! 👋
 
-I'm a full-stack developer from Kenya, passionate about technology, learning, and building solutions that make a difference. My journey in tech began with curiosity and has grown into a commitment to crafting intuitive, efficient, and scalable web applications. I enjoy turning ideas into functional digital experiences — from backend APIs to polished user interfaces.
+I'm a passionate about tech, driven by a curiosity for technology and a dvelopment. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-🚀 About Me
+![lixelamos's Stats](https://github-readme-stats.vercel.app/api?username=lixelamos&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-🎓 I hold a degree in Information Technology and completed a coding bootcamp to strengthen my practical development skills.
+## 🚀 About Me
 
-💻 I’m a full-stack developer skilled in React, Next.js, Flask, and MongoDB, with a growing interest in backend systems and AI integration.
+- 🔭 I recently graduated for my degree and bootcamp.
+- 📝 I am a fullstack developer with a passion for creating intuitive and responsive websites that provide the best user experience possible.
+- 🌐 I have a passion for crafting visually appealing creations that exist in the online realm.My focus lies in designing elegant and simple animated websites
+and mobile features that address user needs with efficient solutions
 
-🌱 I love exploring how technology can enhance learning, simplify workflows, and solve real-world challenges.
 
-🧩 I focus on creating clean, responsive, and accessible web interfaces with great user experience.
 
-🧠 I’m continuously learning — from containerization with Docker to integrating LLMs into real-world projects.
 
-🧰 Tech Stack
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-🌱 Currently Exploring
+## 🌱 Currently Exploring
 
-⚙️ Building scalable APIs and containerized apps using FastAPI and Docker
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django and Flask a powerful Python web framework.
+  - Diving into PostgreSQL and MongoDb for efficient and scalable database management.
 
-⚛️ Strengthening my React and Next.js expertise for dynamic front-end experiences
 
-🧩 Learning AI integration techniques to enhance real-world web apps
+## 📬 Get in Touch
 
-🗃️ Diving deeper into database optimization with PostgreSQL and MongoDB
+- Connect with me on [Twitter](https://twitter.com/lixel_amos)
 
-📬 Get in Touch
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-🌐 Portfolio: kipkoriramos.co.ke
 
-🐦 Twitter: @lixel_amos
 
-💼 GitHub: lixelamos
+<!--
 
-Thanks for stopping by!
-Let’s connect and build something impactful together. 🚀
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on personal e-commerce website
+- 🌱 I’m currently learning swift
+- 👯 I’m looking to collaborate on any open source projects
+- 💬 Ask me about full-stack development
+- 📫 How to reach me:Insta @amos_lixel
+- 😄 Pronouns: Him
+- ⚡ Fun fact: Existence is pain
+-->
