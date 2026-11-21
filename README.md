@@ -1,45 +1,71 @@
-# Hi, I'm Amos Kipkorir! 👋
+# Hi there, I'm Amos Kipkorir 👋
 
-I'm a passionate developer driven by curiosity for technology and innovation. My journey involves exploring the world of computer science, discovering new ideas, and sharing insights with the community.
+**👨‍💻 Software Engineer | 🌐 Full Stack Developer | 🚀 Lifelong Learner**
 
-![lixelamos's Stats](https://github-readme-stats.vercel.app/api?username=lixelamos&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lixelamos&show_icons=true&theme=default"
+    alt="Amos Kipkorir's GitHub Stats"
+  />
+</div>
 
-## 🚀 About Me
+Welcome to my GitHub profile! I'm a software developer passionate about building practical, visually appealing, and user-friendly applications. I enjoy solving problems through code, exploring new technologies, and turning ideas into working products.
 
-- 🎓 Recently graduated with my degree and completed a comprehensive bootcamp program
-- 💻 Full-stack developer passionate about creating intuitive and responsive web applications
-- 🎨 Love crafting visually appealing digital experiences that exist in the online realm
-- 🎯 Focus on designing elegant, animated websites and mobile features that address user needs with efficient solutions
+### 🚀 What I'm Up To
 
-## 🛠️ Tech Stack
+- 💻 Building modern web applications using React, Next.js, and TypeScript.
+- 🌱 Exploring cloud computing, AWS, and software security.
+- 🛠️ Working with full-stack technologies to develop and deploy real-world applications.
+- 🤝 Interested in open-source contributions and collaborating with other developers.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,python,django,postgresql,mongodb,tailwind,git)](https://skillicons.dev)
+### 💻 Tech Stack
 
-## 🌱 Currently Exploring
+🛠️ **Technologies I work with:**
 
-- 🚀 **Full Stack Web Development**
-  - Mastering React and Redux for dynamic front-end experiences
-  - Implementing React Router for seamless page transitions
-  - Creating modern UIs with Tailwind CSS
-  - Building robust server-side applications with Django and Flask
-  - Managing data efficiently with PostgreSQL and MongoDB
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,python,django,flask,postgres,mongodb,supabase,firebase,git,github,vercel,figma,swift&perline=10)](https://skillicons.dev)
 
-## 🚧 Current Projects
+- **Programming Languages:** JavaScript, TypeScript, Python, HTML, CSS
+- **Frontend Development:** React, Next.js, Tailwind CSS
+- **Backend Development:** Node.js, Django, Flask
+- **Database Management:** PostgreSQL, MongoDB, Supabase, Firebase
+- **Version Control:** Git, GitHub
+- **Other Tools:** Visual Studio Code, Figma, Postman, Vercel
 
-- 🛒 Developing a personal e-commerce website
-- 📱 Learning Swift for mobile development
-- 🤝 Open to collaborating on open-source projects
+<div align="center">
 
-## 💬 Let's Connect
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lixelamos&layout=compact&theme=default&hide_border=false&langs_count=8)
 
-- 🐦 [Twitter](https://twitter.com/lixel_amos) - Follow my tech journey
-- 💼 Ask me about full-stack development
-- 📫 Reach out: Instagram @amos_lixel
+</div>
 
-## ⚡ Fun Facts
+### 🚧 What I'm Building
 
-- 😄 Pronouns: He/Him
-- 🎯 Always eager to learn new technologies
-- 🌟 Believe in creating meaningful digital experiences
+- **FlowDock** — A macOS productivity application that organizes apps, websites, and folders into launchable workspaces.
+- **TailorMyCV** — An AI-powered resume tailoring and job application platform.
+- **LaunchFarm** — A platform where creators can launch and showcase their software products.
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+### 📬 Let's Connect
+
+📢 Feel free to reach out if you'd like to discuss software development, exchange ideas, or collaborate on a project.
+
+- 💼 **Portfolio:** [kipkorirportfolio.vercel.app](https://kipkorirportfolio.vercel.app/)
+- 🐦 **Twitter/X:** [@lixel_amos](https://twitter.com/lixel_amos)
+- 📸 **Instagram:** [@amos_lixel](https://instagram.com/amos_lixel)
+- 💻 **GitHub:** [@lixelamos](https://github.com/lixelamos)
+
+### 🌐 Portfolio Website
+
+🔗 Check out my [portfolio website](https://kipkorirportfolio.vercel.app/) to explore my work, projects, and development experience.
+
+### ⚡ GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=lixelamos&theme=dark&hide_border=false)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lixelamos&theme=github-compact)
+
+</div>
+
+Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate or have a chat.
+
+**Happy coding! 🚀**
